@@ -1,0 +1,40 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color: whitesmoke;
+} 
+
+ul{
+	text-align: center;}
+	
+ li{
+	display: inline;
+	margin: 60px;
+	margin-bottom: 10px;
+	margin-left: 10 px;
+	margin-right: 10 px;
+	text-align: center;
+	font-size: 35px;}
+
+h1{color: black; 
+font-family: "classy brune";
+	text-align: center;
+	font-size: 40px;}
+h2 {color: #565656;
+	
+font-family: "Palatino";
+text-align: center;
+font-size: 40px;
+font-weight: strong;}
+
+Dl{color: black;
+font-family: "Palatino";
+text-align: center;
+font-size: 30px;
+margin:40px;
+padding: 10px
+font-weight: normal;}
+
+.photos { 
+	 padding: 15px; 
+	 border:dotted; 
+  border-color:black;}

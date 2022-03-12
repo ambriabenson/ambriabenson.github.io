@@ -1,0 +1,57 @@
+@charset "UTF-8";
+/* CSS Document */
+body{background-color: whitesmoke;
+} 
+	
+ li{
+	display: inline;
+	margin: 60px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 35px;
+
+}
+		
+
+h1{color: orange; 
+font-family: "times new roman";
+	text-align: center
+}
+
+
+
+h3 {color: #367471;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+font-weight: 400;
+font-size: 50px;
+text-align: center} 
+
+h4{color: darkgoldenrod;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+font-weight: 200;
+font-size: 20px;
+text-align: left;
+width: 700px;
+margin:20px;
+padding: 10px} 
+
+
+a:link{
+	color:darkgoldenrod;
+	text-decoration:none;
+}
+a:visited {
+	color:darkgoldenrod;}
+a:hover{
+	color:#367471;
+	text-decoration: underline;}
+.photos {
+  display: block;
+  margin-left: auto;
+  margin-right: 100px;
+  width: 300px;
+  padding: 15px; 
+  position: relative; top: 10px;
+  border:dotted; 
+  border-color:goldenrod
+}
